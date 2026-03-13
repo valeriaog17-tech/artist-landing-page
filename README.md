@@ -53,7 +53,7 @@ project
 
 ## Live Demo
 
-(Se agregará cuando publiquemos con GitHub Pages)
+https://valeriaog17-tech.github.io/artist-landing-page/
 
 ---
 
